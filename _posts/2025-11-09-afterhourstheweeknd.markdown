@@ -1,6 +1,6 @@
 ---
 layout: post
-name:  "After Hours - The Weeknd"
+title:  "After Hours - The Weeknd"
 categories: theweeknd
 ---
 
